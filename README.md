@@ -1,4 +1,4 @@
-# Weekly Journals for COMP 6841 - Software Project Management
+## Weekly Journals for COMP 6841 - Software Project Management
 
 Welcome to my repository for the **COMP 6841 - Software Project Management** course at Concordia University. Here, I will document my weekly learning journey through structured journals. Each journal captures key insights, reflections, challenges, and goals from the week's sessions.
 
