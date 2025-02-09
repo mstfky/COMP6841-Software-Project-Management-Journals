@@ -31,7 +31,7 @@ Each journal entry consists of the following sections:
 Click on the links below to access the journals for each week:
 
 - [Week 1: Introduction to Software Project Management](src/journals/40305298_MustafaKaya_LearningJournal_1.pdf)
-- [Week 2: Planning and Estimation Techniques](week2.docx)
+- [Week 2: Planning and Estimation Techniques](src/journals/40305298_MustafaKaya_LearningJournal_2.pdf)
 - [Week 3: Agile Methodologies and Scrum](week3.docx)
 - [Week 4: Risk Management in Projects](week4.docx)
 - [Week 5: Monitoring and Controlling Projects](week5.docx)
