@@ -32,7 +32,7 @@ Click on the links below to access the journals for each week:
 
 - [Week 1](src/journals/40305298_MustafaKaya_LearningJournal_1.pdf)
 - [Week 2](src/journals/40305298_MustafaKaya_LearningJournal_2.pdf)
-- [Week 3](40305298_MustafaKaya_LearningJournal_3.pdf)
+- [Week 3](src/journals/40305298_MustafaKaya_LearningJournal_3.pdf)
 - [Week 4](week4.docx)
 - [Week 5](week5.docx)
 - [Week 6](week6.docx)
