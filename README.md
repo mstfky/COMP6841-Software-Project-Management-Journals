@@ -30,14 +30,14 @@ Each journal entry consists of the following sections:
 
 Click on the links below to access the journals for each week:
 
-- [Week 1: Introduction to Software Project Management](src/journals/40305298_MustafaKaya_LearningJournal_1.pdf)
-- [Week 2: Planning and Estimation Techniques](src/journals/40305298_MustafaKaya_LearningJournal_2.pdf)
-- [Week 3: Agile Methodologies and Scrum](40305298_MustafaKaya_LearningJournal_3.pdf)
-- [Week 4: Risk Management in Projects](week4.docx)
-- [Week 5: Monitoring and Controlling Projects](week5.docx)
-- [Week 6: Communication and Stakeholder Management](week6.docx)
-- [Week 7: Advanced Topics in Project Management](week7.docx)
-- [Week 8: Final Reflections and Course Wrap-Up](week8.docx)
+- [Week 1](src/journals/40305298_MustafaKaya_LearningJournal_1.pdf)
+- [Week 2](src/journals/40305298_MustafaKaya_LearningJournal_2.pdf)
+- [Week 3](40305298_MustafaKaya_LearningJournal_3.pdf)
+- [Week 4](week4.docx)
+- [Week 5](week5.docx)
+- [Week 6](week6.docx)
+- [Week 7](week7.docx)
+- [Week 8](week8.docx)
 
 ---
 
