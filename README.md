@@ -32,7 +32,7 @@ Click on the links below to access the journals for each week:
 
 - [Week 1: Introduction to Software Project Management](src/journals/40305298_MustafaKaya_LearningJournal_1.pdf)
 - [Week 2: Planning and Estimation Techniques](src/journals/40305298_MustafaKaya_LearningJournal_2.pdf)
-- [Week 3: Agile Methodologies and Scrum](week3.docx)
+- [Week 3: Agile Methodologies and Scrum](40305298_MustafaKaya_LearningJournal_3.pdf)
 - [Week 4: Risk Management in Projects](week4.docx)
 - [Week 5: Monitoring and Controlling Projects](week5.docx)
 - [Week 6: Communication and Stakeholder Management](week6.docx)
